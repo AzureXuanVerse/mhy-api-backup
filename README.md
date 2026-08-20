@@ -18,19 +18,9 @@ The old launcher is no longer supported and the API used until now has stopped b
 
 ## Honkai Impact 3rd - Global
 
-<img src="https://img.shields.io/badge/Game_version-8.9.0-033dfc?style=flat-square" height="31"/>
+<img src="https://img.shields.io/badge/Game_version-9.0.0-033dfc?style=flat-square" height="31"/>
 
 ### Full Package
-
-|Link|Size|MD5|
-|---|---|---|
-|[Game](https://autopatchos.honkaiimpact3.com/ptpublic/bh3_overseas/20260616113019_cNx0VeZdXB0PqFUR/BH3_v8.9.0_becb21cb288f.7z)|25.07 GiB|`9a0ad3048aa1441fa3e64f5ce62c87bb`|
-
-### Pre-download Package
-
-<img src="https://img.shields.io/badge/Pre--download_version-9.0.0-033dfc?style=flat-square" height="31"/>
-
-#### Full Package
 
 |Link|Size|MD5|
 |---|---|---|
@@ -38,19 +28,9 @@ The old launcher is no longer supported and the API used until now has stopped b
 
 ## Honkai Impact 3rd - Global
 
-<img src="https://img.shields.io/badge/Game_version-8.9.0-033dfc?style=flat-square" height="31"/>
+<img src="https://img.shields.io/badge/Game_version-9.0.0-033dfc?style=flat-square" height="31"/>
 
 ### Full Package
-
-|Link|Size|MD5|
-|---|---|---|
-|[Game](https://autopatchkr.honkaiimpact3.com/ptpublic/bh3_kr/20260616120223_meUaau0D9ZZdfufj/BH3_v8.9.0_becb21cb288f.7z)|24.22 GiB|`caf969ba5c444c5fc203ea1feeefdd50`|
-
-### Pre-download Package
-
-<img src="https://img.shields.io/badge/Pre--download_version-9.0.0-033dfc?style=flat-square" height="31"/>
-
-#### Full Package
 
 |Link|Size|MD5|
 |---|---|---|
@@ -58,19 +38,9 @@ The old launcher is no longer supported and the API used until now has stopped b
 
 ## Honkai Impact 3rd - Global
 
-<img src="https://img.shields.io/badge/Game_version-8.9.0-033dfc?style=flat-square" height="31"/>
+<img src="https://img.shields.io/badge/Game_version-9.0.0-033dfc?style=flat-square" height="31"/>
 
 ### Full Package
-
-|Link|Size|MD5|
-|---|---|---|
-|[Game](https://autopatchjp.honkaiimpact3.com/ptpublic/bh3_jp/20260616120531_j1XU7PmKg44eMNKI/BH3_v8.9.0_becb21cb288f.7z)|24.13 GiB|`49371bab7d3e42a9c3274b83df8a8b5a`|
-
-### Pre-download Package
-
-<img src="https://img.shields.io/badge/Pre--download_version-9.0.0-033dfc?style=flat-square" height="31"/>
-
-#### Full Package
 
 |Link|Size|MD5|
 |---|---|---|
